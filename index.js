@@ -26,6 +26,12 @@ const fi = (function() {
     reduce: function() {
 
     },
+    find: function() {
+
+    },
+    filter: function() {
+
+    },
 
     functions: function() {
 
